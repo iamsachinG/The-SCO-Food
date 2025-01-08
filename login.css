@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Josefin Sans", sans-serif;
+
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(pexels-ella-olsson-572949-1640773.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+.login-box h3 {
+    justify-content: center;
+    display: flex;
+    margin-bottom: 50px;
+    font-size: 30px;
+    color: red;
+}
+
+.login-box {
+    background-color: whitesmoke;
+    padding: 100px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+.input-login {
+    padding: 10px;
+    border-radius: 20px;
+    width: 300px;
+}
+
+.input-pass {
+    padding: 10px;
+    border-radius: 20px;
+    width: 300px;
+}
+
+button {
+    width: 300px;
+    border-radius: 20px;
+    padding: 10px;
+    position: relative;
+    left: 8px;
+    margin-top: 20px;
+    background-color: red;
+}
+
+.hello {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hello input {
+    left: 20px;
+    position: relative;
+} 
