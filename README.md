@@ -16,10 +16,15 @@ CSS
 JavaScript
 
 📂 Project Structure
+
 The-SCO-Food/
+
 │── index.html
+
 │── css/
+
 │── js/
+
 │── images/
 
 📸 Preview
