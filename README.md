@@ -35,12 +35,17 @@ A modern restaurant-style UI displaying food items with images, titles, and pric
 
 🔮 Future Improvements
 
-Add to Cart functionality (localStorage based)
-Dynamic cart page with total pricing
-Food filtering (veg/non-veg/search)
-API integration for real-time data
-Authentication (login/signup)
-Improved animations and loading states
+Add to Cart functionality (localStorage based),
+
+Dynamic cart page with total pricing,
+
+Food filtering (veg/non-veg/search),
+
+API integration for real-time data,
+
+Authentication (login/signup),
+
+Improved animations and loading states.
 
 💼 Project Goal
 
