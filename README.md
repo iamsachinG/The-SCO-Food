@@ -1,21 +1,25 @@
-🍽️ Food Ordering Website (UI)
+🍽️ Food Ordering Website (UI):
+
 A responsive food ordering web application UI designed to showcase modern layout, clean structure,
 and intuitive user experience. This project focuses on frontend design and 
 will be extended with dynamic features in future updates.
 
-🚀 Features
+🚀 Features:
+
 Responsive design for mobile and desktop
 Clean and structured UI layout
 Food menu with visually appealing cards
 Smooth navigation across sections
 Modern styling with focus on usability
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
+
 HTML
 CSS
 JavaScript
 
-📂 Project Structure
+📂 Project Structure:
+
 
 The-SCO-Food/
 
@@ -33,7 +37,7 @@ https://github.com/user-attachments/assets/52d851fe-a0b4-49c6-b699-145c730d708d
 
 A modern restaurant-style UI displaying food items with images, titles, and pricing in a structured layout.
 
-🔮 Future Improvements
+🔮 Future Improvements:
 
 Add to Cart functionality (localStorage based),
 
@@ -47,7 +51,7 @@ Authentication (login/signup),
 
 Improved animations and loading states.
 
-💼 Project Goal
+💼 Project Goal:
 
 This project is part of my journey to become a frontend developer by building real-world UI and gradually integrating dynamic functionalities.
 
