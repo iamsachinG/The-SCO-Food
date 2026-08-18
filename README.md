@@ -37,19 +37,6 @@ https://github.com/user-attachments/assets/52d851fe-a0b4-49c6-b699-145c730d708d
 
 A modern restaurant-style UI displaying food items with images, titles, and pricing in a structured layout.
 
-🔮 Future Improvements:
-
-Add to Cart functionality (localStorage based),
-
-Dynamic cart page with total pricing,
-
-Food filtering (veg/non-veg/search),
-
-API integration for real-time data,
-
-Authentication (login/signup),
-
-Improved animations and loading states.
 
 👨‍💻 Author: Sachin Gupta
 
