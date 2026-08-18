@@ -51,10 +51,6 @@ Authentication (login/signup),
 
 Improved animations and loading states.
 
-💼 Project Goal:
-
-This project is part of my journey to become a frontend developer by building real-world UI and gradually integrating dynamic functionalities.
-
 👨‍💻 Author: Sachin Gupta
 
 
